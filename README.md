@@ -33,5 +33,12 @@ Identificar los circuitos en serie-paralelo (circuito mixto),y a su vez los divi
 ![image](https://user-images.githubusercontent.com/104911658/209152029-18cc3268-c096-46ac-a7f6-0471b1bdc2b0.png)
 
 4)En cada uno de los circuitos de la figura 7-63, identifique las relaciones en serie-paralelo de los resistores vistas desde la fuente
+
 ![image](https://user-images.githubusercontent.com/104911658/209152177-a31ee24e-f0ea-482a-b6c9-4e2825ef4361.png)
+
+6)Desarrolle un diagrama esquemático de la tarjeta de circuito impreso de doble cara mostrada en la figura 7-65, y marque los valores de resistor
+
+![image](https://user-images.githubusercontent.com/104911658/209152367-41568f91-8630-499b-ab3a-9a23dcd07ebe.png)
+
+
 
