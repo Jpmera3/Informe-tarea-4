@@ -263,6 +263,7 @@ Capitulo 8 (Teoria de circuitos y conversiones)
 
 4. VIDEO
 
+https://www.youtube.com/watch?v=o3XQGDAzV3Y
 
 6. CONCLUSIONES
 
